@@ -1,8 +1,8 @@
 # Installing Gleam
 
-## Precompiled for Linux or macOS
+## Precompiled for Linux, macOS or Windows
 
-The easiest way to install Gleam on Linux and Apple macOS is to download a
+The easiest way to install Gleam on Linux, Apple macOS and Windows is to download a
 prebuilt version of the compiler from the [GitHub release
 page](https://github.com/gleam-lang/gleam/releases).
 
